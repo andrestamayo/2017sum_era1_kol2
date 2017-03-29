@@ -68,7 +68,9 @@ st1= student('juan', 'martinez', 5)
 
 cl1= Class('Computers', [st1,st2])
 cl2= Class('Computers', [st3,st4])
-cl3= Class('Computers', [st1,st2])
+cl3= Class('Computers', [st5,st6])
+
+agh= School('agh', [cl1,cl2,cl3])
 
 
         
